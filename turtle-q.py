@@ -1,4 +1,4 @@
-#letter: Q
+#LETTER: Q
 import turtle
 turtle.pendown()
 turtle.circle(100)
